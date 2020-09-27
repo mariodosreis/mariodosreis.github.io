@@ -267,4 +267,4 @@ Mario.
 
 _Updated: 27th September 2020._
 
-[^1]: This refers to the climbing wall at the Brixton Recreation Centre, which had several jamming cracks moulded into hard resin in a brick wall. The original (and no cracks).
+[^1]: This refers to the climbing wall at the Brixton Recreation Centre, which had several jamming cracks moulded into hard resin in a brick wall. The original wall was demolished and replaced with a standard plywood wall with plastic resin holds (and no cracks).
