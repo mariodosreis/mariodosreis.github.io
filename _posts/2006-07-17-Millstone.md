@@ -1,25 +1,28 @@
+---
+layout: post
+title:  "Millstone Trip Report"
+author: "Mario dos Reis"
+---
 
+_Originally sent as an email report to the Brixton Climbers' Club Yahoo mailing list._
 
-Mario dos Reis <mariodosreis@yahoo.com>
-To: brixton_climbers@yahoogroups.com
-
-Mon, Jul 17, 2006 at 5:45 PM
+17th July 2007
 
 Well lets face it, weather you love them or you hate
-them, Briston Wall is about cracks. To overcome them
+them, Brixton Wall is about cracks[^1]. To overcome them
 you should make use of that old fashioned climbing
 technique of jamming your fists, hands, fingers or
 even your feet. So much pain, but also so much
 pleasure when you finally overcome that hard crack
 that seemed impossible!
 
-Having this in mind, two Brixton clmbers decided to go
+Having this in mind, two Brixton climbers decided to go
 on an unofficial expedition to what is supposedly the
 crack capital of Britain: Millstone Edge in the Peak
 District. A sheer set of quarried gritstone faces,
 where quarrying techniques have created 'splitters',
 parallel sided cracks that run for dozens of metres,
-splitting up inmaculately flat rock walls. Would this
+splitting up immaculately flat rock walls. Would this
 crag live up to its reputation?
 
 Planning was minimal: a look at the map suggested that
@@ -31,14 +34,14 @@ the crag (ask for the Surprise car park, less than £1
 one way). The problem was were to camp, but the
 closest camp site is several miles away, so not an
 option. More questions at UK climbing made it clear
-that bivying, or even camping at the quarry is
+that bivvying, or even camping at the quarry is
 possible (although the legality of this is hotly
 disputed).
 
-With this information in mind, Eric and I departed
+With this information in mind, Eric Pouget and I departed
 from London at 6:00 pm with a couple of sleeping bags,
 no tent, and enough food and water for the weekend.
-The bus ride went smoothly, and at the Sheffiled
+The bus ride went smoothly, and at the Sheffield
 interchange we caught the last bus to Hathersage (272)
 at 10:20 pm. The bus rides along the moors, beautiful
 and eerie at night. The bus suddenly stopped and the
@@ -49,7 +52,7 @@ to get down so late at night in such a desolated
 place, with a mixed face of compassion and
 bewilderment.
 
-At the car park we hadn't had a clue of what to do so
+At the car park we didn't have a clue of what to do, so
 we started off along the widest path we could find. It
 quickly took us into some woods, and then out again
 into the moors. We met strange looking rock
@@ -69,12 +72,12 @@ path at the car park! Quick breakfast, packed the
 bags, and a few minutes later we were at the bottom of
 the quarry. Simply breathtaking. All the climbs are
 steep and long, the quarry subjected to a strange
-geometrical pattern imposed on it by humandkind. We
+geometrical pattern imposed on it by humankind. We
 found plenty of people bivying and two tents so the
 situation regarding this seems to be ok.
 
 One of the nicest things about this crag is that many
-(most) of its classics borrow names from London
+(most) of its classic climbs borrow names from London
 places, so being there feels kind of familiar. There
 are climbs called Lambeth Chimney and Brixton Road,
 routes that we obviously avoided (anybody knows the
@@ -96,13 +99,13 @@ The next challenge was Great Portland Street, HVS 5b,
 were a hard mantelshelf right at the beginning is the
 crux of the pitch, followed by exquisitely sustained,
 technical 5a bridging up a groove to the top. Well,
-after something like 7 attemps at this 'mantelshelf' I
+after something like 7 attempts at this 'mantelshelf' I
 had to give up! GRRRRR. Never felt so powerless!
 
 Eric, already a strong climber, had never done any
 trad climbing before, so it was his turn to show what
 he was made of. Back to Embankment wall where he
-succesfully, and impressively tackled the first pitch
+successfully, and impressively tackled the first pitch
 of Embankment 1, (VS 4c). After that, I followed with
 The Mall (VS 4c), a perfect corner crack, involving
 one of the most varied climbings I've seen, and
@@ -150,14 +153,14 @@ The next morning Eric was so full of energy that he
 went for Covent Garden (VS 4b) sending it in style. I
 then decided to go for a revenge attempt at the little
 'mantelshelf' of Great Portland Street. I saw some
-people doing it the previous day and I memorized
+people doing it the previous day and I memorised
 everyone of their moves. After making use of a tiny
 foothold that I had ignored the previous day I
 suddenly found myself doing the move effortlessly! I
 was exhilarated thinking that I had done all the hard
 work. The happiness slowly turned to terror as I
-climbed throught the 'exquisite' corner groove to find
-myself surroudend by sheer rock faces withouth the
+climbed through the 'exquisite' corner groove to find
+myself surrounded by sheer rock faces without the
 slightliest possibility of protection! A couple of
 moves and I reached an ancient looking peg. Clipped.
 Another metre up above and I found a microscopic crack
@@ -193,7 +196,7 @@ surely involved. I could not take my eyes off
 futuristic prospects such as The Masters Edge (E7 6c),
 and immaculate unprotected arete, where the legendary
 (perhaps greatest rock climber who ever lived)
-Wolfgang Gullich broke his back. A place to rember and
+Wolfgang Gullich broke his back. A place to remember and
 a place to return to.
 
 Well, as we walked towards the car park we thought
@@ -206,7 +209,7 @@ waited enjoying our icecreams for the bus, and waited,
 and waited, and waited ... At 5:30 we were a bit
 worried. At 5:35 we were a bit uneasy (it takes 25 min
 to get to Sheffield). At 5:40 there were alarm bells
-ringuing. The 6:20 bus to London was the last one, and
+ringing. The 6:20 bus to London was the last one, and
 the prospect was to get the train at a whopping £60!
 At 5:45 Eric decided that hitchhiking was the only
 real option. Surprisingly, at 5:50 a nice chap stopped
@@ -223,12 +226,12 @@ stressfull round of minutes, 6:05, only 15 min left.
 No buses in sight. 6:08, only 12 min left, the 272
 bus, 40 min late, there it comes! Grabbed our bags,
 waived maddly at it, but no, it was not to be, he just
-speed past us (I'd swear he was doing over 30mph in
+sped past us (I'd swear he was doing over 30mph in
 that residential area!) How much frustration! 6:09,
 only 11 min left, there comes a cab, STOP it! 'How
 much to Sheffiled interchange? ' 'Eight quid.' came the
 reply. 'Ok mate, we give you £10 and you get us down
-there in 10 min!'. The indian driver started off fast,
+there in 10 min!'. The Indian driver started off fast,
 nice chap, 'I'll do my best' he said. An old couple
 driving slowly in front of us, will we ever overtake
 them? Yes we did, at 6:15, only 5min left! I can see
@@ -236,7 +239,7 @@ the interchange in the distance, its 6:17, a red
 light, 3 min left. GRRRR. There we go, 6:18 we are
 entering the car park, 6:19 there they are, the
 National Express buses to London, get out of the cab,
-run, I can't belive it!!!! Put our bags in the boot,
+run, I can't believe it!!!! Put our bags in the boot,
 the driver shut it locked, into the bus and off we
 went. Such a near miss! Finally, doze off into our
 seats, and dream of summer evenings at Millstone Edge
@@ -245,11 +248,11 @@ seats, and dream of summer evenings at Millstone Edge
 For those of you interested in having a look there is
 a nice topo with with all(?) the crag routes at:
 
-http://www.cragx. com/articles/ issue13/millston e/sectors. htm
+<http://www.cragx.com/articles/issue13/millstone/sectors.html> (broken link)
 
 Rockfax comments about the routes:
 
-http://www.rockfax. com/databases/ results_crag. html?id=12
+<http://www.rockfax.com/databases/results_crag.html?id=12>
 
 Millstone is not just about crags, there are plenty of
 boulders, bridging corners, gripping aretes and blank
@@ -261,3 +264,7 @@ after so much adventure, and had to pour it all out!
 Cheers, take care and keep climbing!
 
 Mario.
+
+_Updated: 27th September 2020._
+
+[^1]: This refers to the climbing wall at the Brixton Recreation Centre, which had several jamming cracks moulded into hard resin in a brick wall. The original (and no cracks).
