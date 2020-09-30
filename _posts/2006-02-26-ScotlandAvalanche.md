@@ -25,4 +25,7 @@ _The slab avalanche started near the top (top arrow) below the cornice, and I en
 ![](/assets/photos/Gully2-BenNevis-edited.jpg)
 _About to be avalanched: looking down gully number 2._  
 
+![](/assets/photos/Gully2-BenNevis-DSC03101.JPG)
+_A picture I took a few moments AFTER having been avalanched. It pretty much summarises my state of confusion after realising I was alive. The standing people are from a German party that approached my fellow partners half buried in the snow. The camera was clogged with snow so the lens didn't open properly._
+
 _Updated: 29th September 2020._
